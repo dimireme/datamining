@@ -27,5 +27,3 @@ endpoint = f'/users/{username}/repos'
 
 data = get_data(f'{url}{endpoint}', {})
 save_to_json_file('data.json', data)
-
-print(1)
