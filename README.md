@@ -1,2 +1,2 @@
-# datamining_gb
+# datamining
 Homeworks at geekbrains course "Datamining".
