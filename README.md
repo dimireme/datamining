@@ -3,7 +3,9 @@ Homework at geekbrains course "Datamining".
 
 <details>
 <summary>
+
 ### Урок 1. Основы клиент-серверного взаимодействия. Парсинг API
+
 </summary>
 
 ##### Задача 1. 
@@ -32,7 +34,9 @@ Homework at geekbrains course "Datamining".
 
 <details>
 <summary>
+
 ### Урок 2. Парсинг HTML. BeautifulSoup, MongoDB.
+
 </summary>
 
 ##### Задача.
