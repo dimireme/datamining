@@ -1,7 +1,10 @@
 # datamining
 Homework at geekbrains course "Datamining".
 
+<details>
+<summary>
 ### Урок 1. Основы клиент-серверного взаимодействия. Парсинг API
+</summary>
 
 ##### Задача 1. 
 
@@ -25,7 +28,12 @@ Homework at geekbrains course "Datamining".
 }
 ```
 
+</details>
+
+<details>
+<summary>
 ### Урок 2. Парсинг HTML. BeautifulSoup, MongoDB.
+</summary>
 
 ##### Задача.
 
@@ -39,3 +47,5 @@ Homework at geekbrains course "Datamining".
 * url автора
 
 При помощи `sqlalchemy` сохранить данные в базу. Обязательно теги и автор должны существовать отдельными таблицами, и должны быть корректно реализованы соответсвующие связи.
+
+</details>
